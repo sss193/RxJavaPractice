@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="rxjavaPractice/app" />
+      <module fileurl="file://$PROJECT_DIR$/../rxjavaPractice.iml" filepath="$PROJECT_DIR$/../rxjavaPractice.iml" group="rxjavaPractice" />
+    </modules>
+  </component>
+</project>
